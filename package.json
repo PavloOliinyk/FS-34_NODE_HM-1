@@ -1,0 +1,26 @@
+{
+  "name": "fs-34_node_hm-1",
+  "version": "1.0.0",
+  "description": "Домашнее заданиие по Node.JS №1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavloOliinyk/FS-34_NODE_HM-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavloOliinyk/FS-34_NODE_HM-1/issues"
+  },
+  "homepage": "https://github.com/PavloOliinyk/FS-34_NODE_HM-1#readme",
+  "devDependencies": {
+    "commander": "^8.3.0",
+    "nodemon": "^2.0.15"
+  }
+}
